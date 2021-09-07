@@ -21,3 +21,5 @@ elif n == 10:
     print('October')
 elif n == 11:
     print('November')
+elif n == 12:
+    print('December')
