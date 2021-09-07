@@ -11,11 +11,3 @@ elif n == 5:
     print('May')
 elif n == 6:
     print('June')
-elif n == 7:
-    print('July')
-elif n == 8:
-<<<<<<< HEAD
-    print('August') 
-=======
-    print('August')
->>>>>>> master

@@ -14,8 +14,4 @@ elif n == 6:
 elif n == 7:
     print('July')
 elif n == 8:
-<<<<<<< HEAD
     print('August') 
-=======
-    print('August')
->>>>>>> master
