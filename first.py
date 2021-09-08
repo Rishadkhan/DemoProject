@@ -4,9 +4,13 @@ if n == 1:
 elif n == 2:
     print('February')
 elif n == 3:
+<<<<<<< HEAD
     print('March')
 elif n == 4:
     print('April')
 elif n == 5:
     print('May')
 
+=======
+    print('March')
+>>>>>>> master
