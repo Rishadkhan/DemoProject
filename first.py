@@ -6,6 +6,10 @@ elif n == 2:
 elif n == 3:
     print('March')
 elif n == 4:
+<<<<<<< HEAD
     print('Apri')
+=======
+    print('April')
+>>>>>>> master
 elif n == 5:
     print('May')
